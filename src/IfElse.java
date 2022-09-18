@@ -8,7 +8,7 @@ public class IfElse {
 		int a=39;
 		
 		if (a>=90 && a<100) {
-		System.out.println("A grade"); 
+		System.out.println("A+ grade"); 
 		 }
 		 // if percentage is above 75, output must be B
 		else if (a>=75 && a<90) {
